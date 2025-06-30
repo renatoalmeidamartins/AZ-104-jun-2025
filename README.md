@@ -26,3 +26,5 @@
 - [Serviços gratuitos e duração da gratuidade](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account)
 - [Cotas e limites](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits)
 - [Gerenciamento centralizado de Hybrid benefit para SQL Server](https://learn.microsoft.com/en-us/azure/cost-management-billing/scope-level/overview-azure-hybrid-benefit-scope)
+- [Linguagem de políticas no Azure](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure-basics)
+- [Repo com exemplos de politícas, além de todas as "built-in"](https://github.com/Azure/azure-policy/tree/master)
