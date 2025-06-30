@@ -21,3 +21,4 @@
 - [Writeback (entra para AD) de dispositivos](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-device-writeback)
 - [Grupos dinamicos](https://learn.microsoft.com/en-us/entra/identity/users/groups-dynamic-membership)
 - [Pares de regiões](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
+- [Disponibilidade regional de serviços](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table)
