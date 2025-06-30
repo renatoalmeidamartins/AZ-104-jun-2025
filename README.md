@@ -12,4 +12,6 @@
 ## Links do dia 1
 - ["Mapa" de serviços AWS e seus equivalentes no Azure](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
 - [Comparação entre Enra ID e Active Directory](https://learn.microsoft.com/en-us/entra/fundamentals/compare)
+- [Elevando acesso de um Admin global](https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin?tabs=azure-portal%2Centra-audit-logs)
+- [Políticas de Assinatura do Azure/Entra ID](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-azure-subscription-policy)
 - 
