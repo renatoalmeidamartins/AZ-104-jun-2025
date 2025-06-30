@@ -11,3 +11,5 @@
 
 ## Links do dia 1
 - ["Mapa" de serviços AWS e seus equivalentes no Azure](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
+- [Comparação entre Enra ID e Active Directory](https://learn.microsoft.com/en-us/entra/fundamentals/compare)
+- 
