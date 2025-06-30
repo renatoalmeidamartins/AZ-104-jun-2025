@@ -30,4 +30,4 @@
 - [Repo com exemplos de politícas, além de todas as "built-in"](https://github.com/Azure/azure-policy/tree/master)
 - [Lista de roles pre-definidas do Azure](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
 - [Lista de roles pre-definidas do Entra](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference)
-- 
+- [Repo com os modelos de inicio rapido de ARM](https://github.com/Azure/azure-quickstart-templates/tree/master)
