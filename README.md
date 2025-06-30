@@ -20,3 +20,4 @@
 - [Entra connect vs cloud sync](https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/what-is-cloud-sync)
 - [Writeback (entra para AD) de dispositivos](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-device-writeback)
 - [Grupos dinamicos](https://learn.microsoft.com/en-us/entra/identity/users/groups-dynamic-membership)
+- [Pares de regiões](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
