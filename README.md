@@ -17,4 +17,4 @@
 - [Unidades administrativas (semelhantes a OUs no ADDS) no Entra](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/administrative-units)
 - [Planos e recursos do Entra ID, atenção às várias "abas", com produtos standalone e adicionais](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
 - [Reset de senha de auto-serviço](learn.microsoft.com/en-us/entra/identity/authentication/tutorial-enable-sspr)
-- 
+- [Entra connect vs cloud sync](https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/what-is-cloud-sync)
