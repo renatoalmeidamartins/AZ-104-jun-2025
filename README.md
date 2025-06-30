@@ -22,3 +22,4 @@
 - [Grupos dinamicos](https://learn.microsoft.com/en-us/entra/identity/users/groups-dynamic-membership)
 - [Pares de regiões](https://learn.microsoft.com/en-us/azure/reliability/regions-list)
 - [Disponibilidade regional de serviços](https://azure.microsoft.com/en-us/explore/global-infrastructure/products-by-region/table)
+- [Mapa de regiões](https://datacenters.microsoft.com/globe/explore/)
