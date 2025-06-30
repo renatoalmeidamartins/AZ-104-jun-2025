@@ -16,3 +16,5 @@
 - [Políticas de Assinatura do Azure/Entra ID](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/manage-azure-subscription-policy)
 - [Unidades administrativas (semelhantes a OUs no ADDS) no Entra](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/administrative-units)
 - [Planos e recursos do Entra ID, atenção às várias "abas", com produtos standalone e adicionais](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
+- [Reset de senha de auto-serviço](learn.microsoft.com/en-us/entra/identity/authentication/tutorial-enable-sspr)
+- 
