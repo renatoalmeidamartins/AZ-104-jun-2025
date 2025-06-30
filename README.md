@@ -9,6 +9,9 @@
 - [Link do ambiente de lab](https://esi.learnondemand.net/Class/694157)
 - [Acesso ao material do curso, via Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/az-104t00?WT.mc_id=esi_m2l_content_wwl&ocid=%20#study-guide)
 
+## Problemas com labs
+- O lab 3, o "download files"  parece estar quebrado. O unico arquivo contido nos allfiles do lab 3 é este bicep [azuredeploydisk.bicep](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/03/azuredeploydisk.bicep)
+
 ## Links do dia 1
 - ["Mapa" de serviços AWS e seus equivalentes no Azure](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
 - [Comparação entre Enra ID e Active Directory](https://learn.microsoft.com/en-us/entra/fundamentals/compare)
