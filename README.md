@@ -8,4 +8,6 @@
 - [Repo com labs e demos](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
 - [Link do ambiente de lab](https://esi.learnondemand.net/Class/694157)
 - [Acesso ao material do curso, via Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/az-104t00?WT.mc_id=esi_m2l_content_wwl&ocid=%20#study-guide)
-- 
+
+## Links do dia 1
+- ["Mapa" de serviços AWS e seus equivalentes no Azure](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
