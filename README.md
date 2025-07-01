@@ -38,3 +38,4 @@
 ## Links do dia 2
 - [Topologia hub and spoke de rede no centro de arquitetura](https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke)
 - [Definindo uma topologia de rede no Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/define-an-azure-network-topology)
+- [Acesso de saída por padrão (será desabilitado em setembro de 2025)](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/default-outbound-access#how-can-i-transition-to-an-explicit-method-of-public-connectivity-and-disable-default-outbound-access)
