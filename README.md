@@ -11,6 +11,9 @@
 
 ## Problemas com labs
 - O lab 3, o "download files"  parece estar quebrado. O unico arquivo contido nos allfiles do lab 3 é este bicep [azuredeploydisk.bicep](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/03/azuredeploydisk.bicep)
+- O lab faltam dois arquivos:
+  - [az104-06-vms-parameters.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/06/az104-06-vms-parameters.json)
+  - [az104-06-vms-template.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/06/az104-06-vms-template.json)
 
 ## Links do dia 1
 - ["Mapa" de serviços AWS e seus equivalentes no Azure](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
