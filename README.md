@@ -42,3 +42,6 @@
 - [Application security groups](https://learn.microsoft.com/en-us/azure/virtual-network/application-security-groups)
 - [Network service tag](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
 - [Azure Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about)
+- [Rotas de sistema e de usuário](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
+- [Endpoints de serviço no Azure](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview)
+- [Private endpoint](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
