@@ -41,3 +41,4 @@
 - [Acesso de saída por padrão (será desabilitado em setembro de 2025)](https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/default-outbound-access#how-can-i-transition-to-an-explicit-method-of-public-connectivity-and-disable-default-outbound-access)
 - [Application security groups](https://learn.microsoft.com/en-us/azure/virtual-network/application-security-groups)
 - [Network service tag](https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview)
+- [Azure Virtual WAN](https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about)
