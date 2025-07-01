@@ -46,3 +46,4 @@
 - [Endpoints de serviço no Azure](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview)
 - [Private endpoint](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
 - [Comparativo entre service endpoint e private endpoint](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/service-endpoints-vs-private-endpoints/3962134)
+- [Delegação de subnets no Azure](https://learn.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview)
