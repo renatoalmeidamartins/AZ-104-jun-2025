@@ -47,3 +47,5 @@
 - [Private endpoint](https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview)
 - [Comparativo entre service endpoint e private endpoint](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/service-endpoints-vs-private-endpoints/3962134)
 - [Delegação de subnets no Azure](https://learn.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview)
+- [Perfis de roteamento no traffic manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods)
+- [Matriz de decisão dos recursos de balanceamento de carga](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview)
