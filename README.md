@@ -15,9 +15,14 @@ Os links de download files estão quebrados nos labs. Os arquivos mencionados es
 - Lab 5, "Implement Virtual networking", faltam dois arquivos:
   - [az104-04-parameters.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/04/az104-04-parameters.json)
   - [az104-04-template.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/04/az104-04-template.json)
-- O lab 7, "Implement network traffic management",  faltam dois arquivos:
+- Lab 7, "Implement network traffic management",  faltam dois arquivos:
   - [az104-06-vms-parameters.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/06/az104-06-vms-parameters.json)
   - [az104-06-vms-template.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/06/az104-06-vms-template.json)
+- Lab 8, "Manage Azure Storage", falta esta imagem [az104-lab07-architecture-diagram.png](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/blob/master/Allfiles/Labs/07/az104-lab07-architecture-diagram.png?raw=true)
+- Lab 13, "Implement data protection", faltam:
+  - [az104-10-vms-edge-parameters.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/10/az104-10-vms-edge-parameters.json)
+  - [az104-10-vms-edge-template.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/10/az104-10-vms-edge-template.json)
+- Lab 14, "Implement monitoring", falta [az104-11-vm-template.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/11/az104-11-vm-template.json)
 
 ## Links do dia 1
 - ["Mapa" de serviços AWS e seus equivalentes no Azure](https://learn.microsoft.com/en-us/azure/architecture/aws-professional/)
