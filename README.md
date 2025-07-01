@@ -34,3 +34,7 @@
 - [Lista de roles pre-definidas do Azure](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
 - [Lista de roles pre-definidas do Entra](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/permissions-reference)
 - [Repo com os modelos de inicio rapido de ARM](https://github.com/Azure/azure-quickstart-templates/tree/master)
+
+## Links do dia 2
+- [Topologia hub and spoke de rede no centro de arquitetura](https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke)
+- [Definindo uma topologia de rede no Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/define-an-azure-network-topology)
