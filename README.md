@@ -10,8 +10,12 @@
 - [Acesso ao material do curso, via Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/az-104t00?WT.mc_id=esi_m2l_content_wwl&ocid=%20#study-guide)
 
 ## Problemas com labs
-- O lab 3, o "download files"  parece estar quebrado. O unico arquivo contido nos allfiles do lab 3 é este bicep [azuredeploydisk.bicep](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/03/azuredeploydisk.bicep)
-- O lab faltam dois arquivos:
+Os links de download files estão quebrados nos labs. Os arquivos mencionados estão identificados abaixo:
+- Lab 4, "Manage Azure Resources by using ARM templates". O arquivo [azuredeploydisk.bicep](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/03/azuredeploydisk.bicep)
+- Lab 5, "Implement Virtual networking", faltam dois arquivos:
+  - [az104-04-parameters.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/04/az104-04-parameters.json)
+  - [az104-04-template.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/04/az104-04-template.json)
+- O lab 7, "Implement network traffic management",  faltam dois arquivos:
   - [az104-06-vms-parameters.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/06/az104-06-vms-parameters.json)
   - [az104-06-vms-template.json](https://raw.githubusercontent.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/refs/heads/master/Allfiles/Labs/06/az104-06-vms-template.json)
 
