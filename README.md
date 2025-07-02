@@ -78,3 +78,4 @@ Os links de download files estão quebrados nos labs. Os arquivos mencionados es
 - [Login no Azure Container registry](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-authentication?tabs=azure-cli)
 - [Não há lugar no mundo como produção](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
 - [Azure Container apps](https://learn.microsoft.com/en-us/azure/container-apps/overview)
+- [Grupos de containers em Azure container Instances](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-container-groups)
