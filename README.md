@@ -68,3 +68,4 @@ Os links de download files estão quebrados nos labs. Os arquivos mencionados es
 - [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer#Download-4)
 - [Convenção de nomes de tipos de VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/vm-naming-conventions)
 - [Formação do nome dos tipos de VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview?tabs=breakdownseries%2Cgeneralsizelist%2Ccomputesizelist%2Cmemorysizelist%2Cstoragesizelist%2Cgpusizelist%2Cfpgasizelist%2Chpcsizelist)
+- [Comparativo dos recursos de Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
