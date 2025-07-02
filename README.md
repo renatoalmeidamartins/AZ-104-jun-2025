@@ -65,3 +65,5 @@ Os links de download files estão quebrados nos labs. Os arquivos mencionados es
 ## Links do dia 3
 - [Repo do powershell do Azure](https://github.com/Azure/azure-powershell)
 - [Repo da CLI do Azure](https://github.com/Azure/azure-cli)
+- [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer#Download-4)
+- 
