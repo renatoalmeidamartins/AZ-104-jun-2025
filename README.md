@@ -76,3 +76,4 @@ Os links de download files estão quebrados nos labs. Os arquivos mencionados es
 - [Extraindo informações da identidade autenticada no app service](https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-user-identities)
 - [Exemplo bem simples de Dockerfile](https://docs.docker.com/get-started/docker-concepts/building-images/writing-a-dockerfile/)
 - [Login no Azure Container registry](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-authentication?tabs=azure-cli)
+- [Não há lugar no mundo como produção](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
