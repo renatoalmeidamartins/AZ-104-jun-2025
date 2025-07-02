@@ -61,3 +61,7 @@ Os links de download files estão quebrados nos labs. Os arquivos mencionados es
 - [Delegação de subnets no Azure](https://learn.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview)
 - [Perfis de roteamento no traffic manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods)
 - [Matriz de decisão dos recursos de balanceamento de carga](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview)
+
+## Links do dia 3
+- [Repo do powershell do Azure](https://github.com/Azure/azure-powershell)
+- [Repo da CLI do Azure](https://github.com/Azure/azure-cli)
