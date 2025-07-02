@@ -72,4 +72,4 @@ Os links de download files estão quebrados nos labs. Os arquivos mencionados es
 - [Criação de uma imagem a partir de uma VM](https://learn.microsoft.com/en-us/azure/virtual-machines/capture-image-portal)
 - [Uso de compute gallery, para imagens de VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/shared-image-galleries?tabs=vmsource%2Cazure-cli)
 - [Criação de VMs com o VM image builder](https://learn.microsoft.com/en-us/azure/virtual-machines/image-builder-overview?tabs=azure-powershell)
-- 
+- [Usando referencia a key vault em configurações de ambiente de um App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references?tabs=azure-cli)
