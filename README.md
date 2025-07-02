@@ -69,3 +69,5 @@ Os links de download files estão quebrados nos labs. Os arquivos mencionados es
 - [Convenção de nomes de tipos de VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/vm-naming-conventions)
 - [Formação do nome dos tipos de VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview?tabs=breakdownseries%2Cgeneralsizelist%2Ccomputesizelist%2Cmemorysizelist%2Cstoragesizelist%2Cgpusizelist%2Cfpgasizelist%2Chpcsizelist)
 - [Comparativo dos recursos de Azure Bastion](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
+- [Criação de uma imagem a partir de uma VM](https://learn.microsoft.com/en-us/azure/virtual-machines/capture-image-portal)
+- [Uso de compute gallery, para imagens de VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/shared-image-galleries?tabs=vmsource%2Cazure-cli)
