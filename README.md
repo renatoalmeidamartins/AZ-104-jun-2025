@@ -16,6 +16,10 @@ Não faça perguntas com respostas para escrever.
 
 O fluxo deve ser interativo: primeiro, você me faz a pergunta e aguarda minha resposta. Depois que eu responder, você me dá o feedback dizendo se está certo ou errado, explica a resposta correta e o porquê. Vamos começar com uma pergunta no formato oficial do exame AZ-104!
 ```
+## Info sobre certificação em geral:
+- [Blog do MS Learn](https://techcommunity.microsoft.com/category/microsoftlearn/blog/microsoftlearnblog)
+- [FAQ de certificações](https://learn.microsoft.com/en-us/credentials/support/cred-overview)
+
 ## Meus dados:
 - [Transcript Microsoft](https://learn.microsoft.com/en-us/users/renatomartins-7213/transcript/dqlr3cjep5q3r9m?source=docs)
 - [Perfil no Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
