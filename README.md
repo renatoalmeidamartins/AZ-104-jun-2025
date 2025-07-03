@@ -80,3 +80,6 @@ Os links de download files estão quebrados nos labs. Os arquivos mencionados es
 - [Azure Container apps](https://learn.microsoft.com/en-us/azure/container-apps/overview)
 - [Grupos de containers em Azure container Instances](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-container-groups)
 - [Comparação entre Azure Container Apps e AKS](https://techcommunity.microsoft.com/blog/startupsatmicrosoftblog/aca-vs-aks-which-azure-service-is-better-for-running-containers/3815164)
+
+## Links do dia 4
+- [Visão geral de Kusto Query Language - KQL](https://learn.microsoft.com/en-us/kusto/query/?view=microsoft-fabric)
