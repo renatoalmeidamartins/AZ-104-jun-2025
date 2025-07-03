@@ -23,6 +23,7 @@ O fluxo deve ser interativo: primeiro, você me faz a pergunta e aguarda minha r
 ## Meus dados:
 - [Transcript Microsoft](https://learn.microsoft.com/en-us/users/renatomartins-7213/transcript/dqlr3cjep5q3r9m?source=docs)
 - [Perfil no Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
+- email: renatoalmeidamartins arroba gmail ponto com
 
 ## Links gerais:
 - [Repo com labs e demos](https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator)
