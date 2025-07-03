@@ -1,5 +1,11 @@
 # AZ-104-jun-2025
 
+[Avaliação do curso](https://www.metricsthatmatter.com/student/evaluation.asp?k=79335&i=83486)
+
+## Prompt sugerido para um LLM gerar perguntas próximas das perguntas do exame
+```
+Quero que você atue como um avaliador da certificação Microsoft AZ-104, gerando perguntas interativas para mim. O modelo de perguntas deve seguir os formatos oficiais do exame, incluindo: Perguntas diretas (múltipla escolha, escolha única e verdadeiro ou falso). Casos de estudo (cenários completos com ambiente atual, ambiente desejado e requisitos técnicos específicos). Perguntas baseadas em cenários técnicos (descrição do problema e necessidade de selecionar a melhor solução no Azure). Os cenários devem ser realistas e técnicos, baseados em melhores práticas e arquitetura do Azure. Inclua detalhes sobre: Ambiente atual (o que já está configurado na empresa). Ambiente desejado (o que a empresa precisa alcançar). Características técnicas (requisitos de segurança, escalabilidade, custo, performance, alta disponibilidade, etc.). Recursos do Azure (Azure Virtual Network, Azure Virtual Machines, Storage, Load Balancer, NSG, ASG, RBAC, Azure AD, Azure Monitor, entre outros). Pode usar o nome das empresas Contoso ou Fabrikam. Não faça perguntas com respostas para escrever. O fluxo deve ser interativo: primeiro, você me faz a pergunta e aguarda minha resposta. Depois que eu responder, você me dá o feedback dizendo se está certo ou errado, explica a resposta correta e o porquê. Vamos começar com uma pergunta no formato oficial do exame AZ-104!
+```
 ## Meus dados:
 - [Transcript Microsoft](https://learn.microsoft.com/en-us/users/renatomartins-7213/transcript/dqlr3cjep5q3r9m?source=docs)
 - [Perfil no Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
