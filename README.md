@@ -19,6 +19,7 @@ O fluxo deve ser interativo: primeiro, você me faz a pergunta e aguarda minha r
 ## Info sobre certificação em geral:
 - [Blog do MS Learn](https://techcommunity.microsoft.com/category/microsoftlearn/blog/microsoftlearnblog)
 - [FAQ de certificações](https://learn.microsoft.com/en-us/credentials/support/cred-overview)
+- [Enterprise skills initiative](https://esi.microsoft.com)
 
 ## Meus dados:
 - [Transcript Microsoft](https://learn.microsoft.com/en-us/users/renatomartins-7213/transcript/dqlr3cjep5q3r9m?source=docs)
